@@ -1,0 +1,19 @@
+/* styles.css */
+
+#AnchorPane {
+    -fx-background-color: #212121; /* dark background */
+}
+
+.label {
+    -fx-font-size: 24px;
+    -fx-text-fill: #673AB7; /* purple text color */
+}
+
+.button {
+    -fx-background-color: #673AB7; /* purple button background */
+    -fx-text-fill: white; /* white button text color */
+}
+
+.progress-indicator {
+    -fx-progress-color: #673AB7; /* purple progress indicator color */
+}
